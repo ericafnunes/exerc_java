@@ -1,5 +1,7 @@
 ### :computer: Lambda Expressions - Java
 
+ <img  align="center" alt="java" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+
 O Parque de diversões Adventure Island! deve sempre verificar se a pessoa que deseja entrar em um brinquedo atende aos requerimentos de segurança,
 baseado no contrato estabelecido pela interface Brinquedo.java
 
